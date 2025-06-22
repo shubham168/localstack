@@ -1,0 +1,5 @@
+const app = require('./index.js')
+
+app.listen(3000, () => {
+    console.log("app started on port 3000")
+})
