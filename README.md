@@ -1,6 +1,10 @@
 # localstack
 Localstack projects
 
+## Pre-requisites
+- Node js > v20
+- docker
+
 1. Express node 
     - Contains localstack docker-compose file
     - This file spins localstack with apigateway and lambda service
