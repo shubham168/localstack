@@ -1,0 +1,2 @@
+# localstack
+Localstack projects
